@@ -2,7 +2,7 @@
 
 A modern and responsive shopping cart web application built using **React**, **Tailwind CSS**, **Redux Toolkit**, and **React Router**, bundled with **Vite** for lightning-fast development and builds.Powered by Vite for fast builds and optimized performance. Clean, modular codebase for scalability.
 
-Shop URL: https://shopping-cart-zex4.vercel.app/
+Website Page: https://shopping-cart-zex4.vercel.app/
 ---
 
 ## 🚀 Features
