@@ -25,8 +25,8 @@ A modern and responsive shopping cart web application built using **React**, **T
   Ultra-fast build times and hot module replacement.
 
 🛠️ Built With
-React
-Tailwind CSS
-Redux Toolkit
-React Router
-Vite
+    React
+    Tailwind CSS
+    Redux Toolkit
+    React Router
+    Vite
